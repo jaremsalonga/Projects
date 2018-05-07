@@ -3,7 +3,7 @@ info:
   description: CRUD API of human documents
   version: 1.0.0
   title: Humans API
-host: localhost
+host: localhost:3000
 basePath: /api
 schemes:
  - http
